@@ -59,11 +59,7 @@ Here is the example configuration unchanged:
       The maximum spending limit is 50.00
 
 
-      This message was automagically generated from a computer. 
 
-      Nothing could possibly go wrong...
-
-      http://github.com/underbluewaters/secret-santa
 
 Once configured, call secret-santa:
 
